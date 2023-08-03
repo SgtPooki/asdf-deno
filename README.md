@@ -4,7 +4,7 @@
 
 ## Build History
 
-[![Build history](https://buildstats.info/github/chart/asdf-community/asdf-deno?branch=master)](https://github.com/asdf-community/asdf-deno/actions)
+[![Build history](https://buildstats.info/github/chart/SgtPooki/asdf-deno?branch=master)](https://github.com/SgtPooki/asdf-deno/actions)
 
 ## Prerequirements
 
@@ -17,7 +17,7 @@
 ## Installation
 
 ```bash
-asdf plugin-add deno https://github.com/asdf-community/asdf-deno.git
+asdf plugin-add deno https://github.com/SgtPooki/asdf-deno.git
 ```
 
 ## Usage
